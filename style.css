@@ -22,7 +22,7 @@ body{
 .container{
   position: relative;
   width: 400px;
-  height: 100px;
+  height: 130px;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(30px);
   border: 2px solid rgba(255, 255, 255, 0.219);
@@ -39,7 +39,7 @@ body{
   /* background: rgb(34, 5, 225); */
   display: flex;
   align-items: center;
-  
+  padding-bottom: 15px;
 }
 
 .search-box i{
@@ -57,7 +57,7 @@ body{
   outline: none;
   border-radius: 10px;
   font-size: 22px;
-  color: #0ebbe2;
+  color: #eff3f4;
   font-weight: 500;
   text-transform: uppercase;
   padding: 0 48px 0 42px;
