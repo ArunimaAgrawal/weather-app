@@ -132,7 +132,8 @@ search.addEventListener('click', () =>{
           cloneInfoWeatherFirst.remove();
           cloneInfoHumidityFirst.remove();
           cloneInfoWindFirst.remove();
-        },2200);
+        }
+      ,2200)
       }
       
       }
